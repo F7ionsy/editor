@@ -18,8 +18,8 @@ repro: true
 <!-- more -->
 这里以上为首页更改，以下为全部内容，用于在首页收起过长的文字内容
 
+插入代码：
 ```CSharp
-插入代码
 using System;
 using System.Collections.Generic;
 using System.Linq;
