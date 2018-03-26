@@ -11,9 +11,9 @@ repro: true
 ---
 ### 正文开始
 
-!(添加图片)[//www.baidu.com/img/bd_logo1.png]
+!(//www.baidu.com/img/bd_logo1.png)[添加图片]
 
-(添加链接)[https://www.baidu.com/]
+(https://www.baidu.com/)[添加链接]
 
 <!-- more -->
 这里以上为首页更改，以下为全部内容，用于在首页收起过长的文字内容
