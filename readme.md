@@ -1,5 +1,6 @@
 title: 标题
 author: 署名
+id: post-20180101000000
 tags:
   - 标签
 categories:
